@@ -21,7 +21,7 @@ class VOJSGoogleAnalyticsSettingsForm extends Form {
 
 	/**
 	 * Constructor
-	 * @param $plugin GoogleAnalyticsPlugin
+	 * @param $plugin VOJSGoogleAnalyticsPlugin
 	 * @param $journalId int
 	 */
 	function __construct($plugin, $journalId) {
